@@ -13,4 +13,9 @@ public class SampleTest {
     public void testSample2() {
 
     }
+
+    @Test
+    public void testSample3() {
+        
+    }
 }
